@@ -1,3 +1,4 @@
 This is a test!
 Now I changed the text.
 OLG !!! 干了! 
+好了，现在在工作区添加一个lisence文件
